@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/candyhug/static/css/main.e6c13ad2.css",
+    "main.js": "/candyhug/static/js/main.3d7d3d89.js",
+    "static/js/787.af04e08f.chunk.js": "/candyhug/static/js/787.af04e08f.chunk.js",
+    "index.html": "/candyhug/index.html",
+    "main.e6c13ad2.css.map": "/candyhug/static/css/main.e6c13ad2.css.map",
+    "main.3d7d3d89.js.map": "/candyhug/static/js/main.3d7d3d89.js.map",
+    "787.af04e08f.chunk.js.map": "/candyhug/static/js/787.af04e08f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3d7d3d89.js"
+  ]
+}
